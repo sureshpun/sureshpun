@@ -2,7 +2,7 @@
 ### 🍳 Chef turning into Full Stack Developer  
 
 I'm currently studying **Full Stack Development at Kood Sisu (2025–)**, learning **Go, JavaScript, and TypeScript**.  
-Previously, I worked for several years as a **cook** in Finland, and I have experience in **IT and business administration**.
+Previously, I worked for several years as a **chef** in Finland, and I have experience in **IT and business administration**.
 
 ---
 
