@@ -27,5 +27,11 @@ Previously, I worked for several years as a **chef** in Finland, and I have expe
 - 🌐 Portfolio: [sureshpun.github.io/portfolio](https://sureshpun.github.io/portfolio)
 
 ---
+### 🎭 Art Decoder Encoder Interface
+Welcome to the Art Encoding and Decoding Web Application! This web-based application, built with **Go (Golang)**, allows you to encode and decode ASCII art using custom encoding logic. It's a fun tool for encoding art into a special format or decoding it back to its original form.
+
+[![Art Interface](art.png)](https://youtu.be/YR7c2HPkRjw)
+
+---
 
 ⭐️ *Thanks for visiting my GitHub profile!*
