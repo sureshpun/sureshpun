@@ -30,7 +30,11 @@ Previously, I worked for several years as a **chef** in Finland, and I have expe
 ### 🎭 Art Decoder Encoder Interface
 Welcome to the Art Encoding and Decoding Web Application! This web-based application, built with **Go (Golang)**, allows you to encode and decode ASCII art using custom encoding logic. It's a fun tool for encoding art into a special format or decoding it back to its original form.
 
-[![Art Interface](art.png)](https://youtu.be/YR7c2HPkRjw)
+Click on the image below to see more about the Art Decoder interface in action:
+Check out the YouTube video for a full demo of the interface and its features.
+
+
+[![Art Interface](art.png =300x)](https://youtu.be/YR7c2HPkRjw)
 
 ---
 
