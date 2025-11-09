@@ -34,7 +34,7 @@ Click on the image below to see more about the Art Decoder interface in action:
 Check out the YouTube video for a full demo of the interface and its features.
 
 
-[![Art Interface](art.png =300x)](https://youtu.be/YR7c2HPkRjw)
+[![Art Interface](art.png)](https://youtu.be/YR7c2HPkRjw)
 
 ---
 
