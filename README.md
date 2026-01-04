@@ -2,6 +2,16 @@
 
 <h3 align="center">🍽️ Chef turning into Full Stack Developer</h3>
 
+<p align="center">
+  <a href="#journey">My Journey</a> •
+  <a href="#education">Education</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#experience">Experience</a> •
+  <a href="#contact">Contact</a> •
+  <a href="#projects">Projects</a>
+</p>
+
+<a name="journey"></a>
 ## 🚀 My Journey
 
 Currently, I am learning **Go, JavaScript, and TypeScript** at **@ Kood/Sisu**, applying the same discipline I honed in professional kitchens to writing clean, maintainable code.
@@ -18,13 +28,14 @@ Currently, I am learning **Go, JavaScript, and TypeScript** at **@ Kood/Sisu**, 
     </td>
     <td align="center" width="33%">
         <h4>🔮 The Future</h4>
-        <small>Continuous Learning in Cloud, Frontend, Backend & Full Stack Architectures</small>
+        <small>Continuous Learning programming languages and frameworks</small>
     </td>
   </tr>
 </table>
 
 ---
 
+<a name="education"></a>
 ## 🎓 Education
 
 - **Full Stack Developer** – @Kood Sisu (2025–Ongoing)
@@ -34,6 +45,7 @@ Currently, I am learning **Go, JavaScript, and TypeScript** at **@ Kood/Sisu**, 
 
 ---
 
+<a name="skills"></a>
 ## 🛠 Skills
 
 ### Languages
@@ -62,6 +74,7 @@ Currently, I am learning **Go, JavaScript, and TypeScript** at **@ Kood/Sisu**, 
 
 ---
 
+<a name="experience"></a>
 ## 💼 Work Experience
 
 - **Cook** – HMS Host Finland / Avolta (2022–2023, 2024–Present)
@@ -73,6 +86,7 @@ Currently, I am learning **Go, JavaScript, and TypeScript** at **@ Kood/Sisu**, 
 
 ---
 
+<a name="contact"></a>
 ## 📫 Get In Touch
 
 I'm always open to discussing new projects, creative ideas, or opportunities.
@@ -82,6 +96,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities.
 - 🌐 **Portfolio:** [sureshpun.github.io/portfolio](https://sureshpun.github.io/portfolio/)
 
 ---
+<a name="projects"></a>
 ## 📂 Projects
 
 🚀 *More exciting projects are yet to come!*
