@@ -103,9 +103,18 @@ I'm always open to discussing new projects, creative ideas, or opportunities.
 
 
 
-<table border="0">
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
+      <h3>🚉 Stations Pathfinder</h3>
+      <a href="./projects/stations-pathfinder.md">
+        <img src="pic/stations.png" width="85%" alt="Stations Pathfinder">
+      </a>
+      <p>A Go-based command-line tool for optimal train routing and collision avoidance.</p>
+      <a href="./projects/stations-pathfinder.md"><b>View Project Details &rarr;</b></a>
+      <br>
+      <a href="https://kood-sisu-stations-pathfinder.netlify.app/"><i>Live Demo</i></a>
+    </td>
+    <td width="33%" align="center">
       <h3>🎭 Art Decoder</h3>
       <a href="./projects/art-decoder.md">
         <img src="pic/art.png" width="85%" alt="Art Decoder">
@@ -115,7 +124,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities.
       <br>
       <a href="https://sureshpun.github.io/portfolio/projects/art-decoder.html"><i>Live Demo</i></a>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <h3>🚗 Cars Viewer</h3>
       <a href="./projects/car-viewer.md">
         <img src="pic/car.png" width="85%" alt="Cars Viewer">
