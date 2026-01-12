@@ -101,41 +101,9 @@ I'm always open to discussing new projects, creative ideas, or opportunities.
 
 🚀 *More exciting projects are yet to come!*
 
-
-
-  <tr>
-    <td width="33%" align="center">
-      <h3>🚉 Stations Pathfinder</h3>
-      <a href="./projects/stations-pathfinder.md">
-        <img src="pic/stations.png" width="85%" alt="Stations Pathfinder">
-      </a>
-      <p>A Go-based command-line tool for optimal train routing and collision avoidance.</p>
-      <a href="./projects/stations-pathfinder.md"><b>View Project Details &rarr;</b></a>
-      <br>
-      <a href="https://kood-sisu-stations-pathfinder.netlify.app/"><i>Live Demo</i></a>
-    </td>
-    <td width="33%" align="center">
-      <h3>🎭 Art Decoder</h3>
-      <a href="./projects/art-decoder.md">
-        <img src="pic/art.png" width="85%" alt="Art Decoder">
-      </a>
-      <p>A web-based application built with Go to encode and decode ASCII art using custom logic.</p>
-      <a href="./projects/art-decoder.md"><b>View Project Details &rarr;</b></a>
-      <br>
-      <a href="https://sureshpun.github.io/portfolio/projects/art-decoder.html"><i>Live Demo</i></a>
-    </td>
-    <td width="33%" align="center">
-      <h3>🚗 Cars Viewer</h3>
-      <a href="./projects/car-viewer.md">
-        <img src="pic/car.png" width="85%" alt="Cars Viewer">
-      </a>
-      <p>A Go-based car viewer app with dynamic filtering, comparison features, and detailed specs.</p>
-      <a href="./projects/car-viewer.md"><b>View Project Details &rarr;</b></a>
-      <br>
-      <a href="https://sureshpun.github.io/portfolio/projects/car-viewer.html"><i>Live Demo</i></a>
-    </td>
-  </tr>
-</table>
+| | | |
+| :-: | :-: | :-: |
+| <h3>🚉 Stations Pathfinder</h3><a href="./projects/stations-pathfinder.md"><img src="pic/stations-card.png" width="100%" alt="Stations Pathfinder"></a><br><br>A Go-based command-line tool for optimal train routing and collision avoidance.<br><br>[**View Project Details ➔**](./projects/stations-pathfinder.md)<br>[*Live Demo*](https://kood-sisu-stations-pathfinder.netlify.app/) | <h3>🎭 Art Decoder</h3><a href="./projects/art-decoder.md"><img src="pic/art-card.png" width="100%" alt="Art Decoder"></a><br><br>A web-based application built with Go to encode and decode ASCII art using custom logic.<br><br>[**View Project Details ➔**](./projects/art-decoder.md)<br>[*Live Demo*](https://sureshpun.github.io/portfolio/projects/art-decoder.html) | <h3>🚗 Cars Viewer</h3><a href="./projects/car-viewer.md"><img src="pic/car-card.png" width="100%" alt="Cars Viewer"></a><br><br>A Go-based car viewer app with dynamic filtering, comparison features, and detailed specs.<br><br>[**View Project Details ➔**](./projects/car-viewer.md)<br>[*Live Demo*](https://sureshpun.github.io/portfolio/projects/car-viewer.html) |
 
 ---
 
