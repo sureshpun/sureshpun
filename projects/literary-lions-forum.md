@@ -1,6 +1,6 @@
 <h1 align="center">🦁 Literary Lions Forum</h1>
 
-**[View Live Project](#)**
+**[View Live Project Details](https://sureshpun.github.io/portfolio/projects/literary-lions-forum.html)**
 
 **Literary Lions Forum** is a modern, high-performance discussion platform built from scratch with **Go** and **SQLite**. It offers a clean, responsive interface for users to engage in meaningful discussions, featuring custom authentication and a dynamic engagement system.
 
@@ -22,7 +22,6 @@
 
 **Comment & react:** Participate in discussions by commenting and liking posts or comments.
 The interface is designed with simplicity and clarity, ensuring an intuitive user experience.
-
 
 ## 🛠️ Core Tech Stack
 
@@ -68,6 +67,6 @@ flowchart TD
 
 ## 📺 Project Preview
 
-[![Literary Lions Forum](../pic/literary-lions.png)](#)
+[![Literary Lions Forum](../pic/literary-lions.png)](https://www.youtube.com/watch?v=sQkgPZ9ZreA&t=9s)
 
 [← Back to Profile](../README.md)
